@@ -15,11 +15,13 @@
 ###
 
 <p align="left">
-Curious and chaotic learner. AI/ML Enthusiast.<br>
-Currently working on Backend Architecture.<br>
-I can help in Full Stack Development, Machine/Deep Learning, QA Testing.<br>
+🤖 Curious and chaotic learner. AI/ML Enthusiast.<br>
+Currently working on Backend Architecture.<br><br>
+🤝 I can help in Full Stack Development, Machine/Deep Learning, QA Testing.<br>
 Ready to contribute to Open Source.<br><br>
-<b>while (eat && sleep) learn();</b>
+<b>while (eat && sleep) {
+    learn();
+}</b>
 </p>
 
 ###
@@ -92,10 +94,15 @@ Ready to contribute to Open Source.<br><br>
 
 ### 📫 Socials
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35"/>
+  <a href="mailto:chitransh.saxena.contact@gamail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35"/>
+  </a>
   <img width="20"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35"/>
+  <a href="https://www.linkedin.com/in/chitranshatlkdin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35"/>
+  </a>
 </div>
+
 
 </td>
 </tr>
