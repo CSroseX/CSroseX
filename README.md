@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="Bored%20Let%20Down%20GIF%20by%20Pudgy%20Penguins.gif" />
+<img align="right" height="150" src="./bored-let-down.gif" />
 
 
 <p align="left">
