@@ -38,7 +38,7 @@ while (eat && sleep) learn();
 
 ### 📊 Total Contributions
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=CSroseX&theme=aura&hide_border=false&hide_longest_streak=true&hide_current_streak=true)
+![](https://nirzak-streak-stats.vercel.app/?user=CSroseX&theme=aura&hide_border=false&hide_longest_streak=true&hide_current_streak=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CSroseX&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -135,9 +135,29 @@ while (eat && sleep) learn();
 
 ---
 
+## 🌐 Let's Connect
+
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chitranshatlkdin/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chitransh_roseX) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chitransh.saxena.contact@gmail.com)
+
+</div>
+
+---
+
+## ✨ Random Dev Wisdom
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
 
 **Thanks for stopping by! Let's build something awesome together** 🚀
 
