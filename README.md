@@ -29,7 +29,8 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBteTIxbXR0OWZxMXg1ZjVuYTJscnB0OW5nOW03bWx6a2FmOTdjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPWXYMP4t2ODvzwOYk/giphy.gif" />
+<img align="right" height="150" src="Bored%20Let%20Down%20GIF%20by%20Pudgy%20Penguins.gif" />
+
 
 <p align="left">
 🤖 Curious and chaotic learner. AI/ML Enthusiast.<br>
