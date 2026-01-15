@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="./bored-let-down.gif" />
+<img align="right" height="300" width="300" src="./meme.png" />
 
 
 <p align="left">
